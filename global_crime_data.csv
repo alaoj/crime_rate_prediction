@@ -1,0 +1,10 @@
+Country,Year,Population,Unemployment_Rate,Education_Index,Crime_Rate
+Aland,2018,500000,6.2,0.85,5.8
+Aland,2019,502000,6.0,0.86,5.6
+Aland,2020,504000,7.1,0.86,6.3
+Betonia,2018,1200000,9.5,0.72,9.9
+Betonia,2019,1215000,8.8,0.73,9.3
+Betonia,2020,1220000,10.2,0.71,10.5
+Calida,2018,800000,5.0,0.88,4.7
+Calida,2019,810000,4.8,0.89,4.5
+Calida,2020,815000,5.5,0.87,5.0
