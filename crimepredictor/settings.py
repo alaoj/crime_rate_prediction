@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&jbm$6pktl37i@+$%eu1onc$f!8ft$wgls@)u546^1h=p1+y4%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crime-rate-prediction-hzle.onrender.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
